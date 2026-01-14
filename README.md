@@ -1,6 +1,10 @@
-## 🛍️ Web Portfolio — FV.WebStudio
+## 🛍️ Web Portfolio 
+## 👋 FV.WebStudio — Fabian V.
 
-Showcasing custom Shopify and HTML/CSS/JavaScript websites for small and medium businesses.
+I build modern, functional websites for small and medium businesses using Shopify, HTML, CSS, and JavaScript.
+
+Construyo sitios web modernos y funcionales para pequeñas y medianas empresas usando Shopify, HTML, CSS y JavaScript.
+
 
 ### Projects
 
